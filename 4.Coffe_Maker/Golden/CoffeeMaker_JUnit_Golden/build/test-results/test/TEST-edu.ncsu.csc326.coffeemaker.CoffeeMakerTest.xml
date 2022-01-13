@@ -1,0 +1,112 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="edu.ncsu.csc326.coffeemaker.CoffeeMakerTest" tests="9" skipped="0" failures="0" errors="0" timestamp="2022-01-13T23:52:38" hostname="LSTKBO220164" time="0.025">
+  <properties/>
+  <testcase name="testCanIMakeCoffee" classname="edu.ncsu.csc326.coffeemaker.CoffeeMakerTest" time="0.007"/>
+  <testcase name="testAddInventory" classname="edu.ncsu.csc326.coffeemaker.CoffeeMakerTest" time="0.001"/>
+  <testcase name="testAddInventoryException" classname="edu.ncsu.csc326.coffeemaker.CoffeeMakerTest" time="0.002"/>
+  <testcase name="testMakeCoffee1" classname="edu.ncsu.csc326.coffeemaker.CoffeeMakerTest" time="0.002"/>
+  <testcase name="testMakeCoffee2" classname="edu.ncsu.csc326.coffeemaker.CoffeeMakerTest" time="0.002"/>
+  <testcase name="testMakeCoffee3" classname="edu.ncsu.csc326.coffeemaker.CoffeeMakerTest" time="0.002"/>
+  <testcase name="testMakeCoffee4" classname="edu.ncsu.csc326.coffeemaker.CoffeeMakerTest" time="0.001"/>
+  <testcase name="testMakeCoffee5" classname="edu.ncsu.csc326.coffeemaker.CoffeeMakerTest" time="0.0"/>
+  <testcase name="testMakeCoffee6" classname="edu.ncsu.csc326.coffeemaker.CoffeeMakerTest" time="0.003"/>
+  <system-out><![CDATA[Receta agregada en la posicion: 0
+Estado de adicion de la receta: true
+Receta agregada en la posicion: 1
+Estado de adicion de la receta: true
+Receta agregada en la posicion: 2
+Estado de adicion de la receta: true
+Receta agregada en la posicion: 3
+Estado de adicion de la receta: true
+Coffee: 15
+Milk: 15
+Sugar: 15
+Chocolate: 15
+
+Receta agregada en la posicion: 0
+Estado de adicion de la receta: true
+Receta agregada en la posicion: 1
+Estado de adicion de la receta: true
+Receta agregada en la posicion: 2
+Estado de adicion de la receta: true
+Receta agregada en la posicion: 3
+Estado de adicion de la receta: true
+Receta agregada en la posicion: 0
+Estado de adicion de la receta: true
+Receta agregada en la posicion: 1
+Estado de adicion de la receta: true
+Receta agregada en la posicion: 2
+Estado de adicion de la receta: true
+Receta agregada en la posicion: 3
+Estado de adicion de la receta: true
+Receta agregada en la posicion: 0
+Estado de adicion de la receta: true
+Receta agregada en la posicion: 1
+Estado de adicion de la receta: true
+Receta agregada en la posicion: 2
+Estado de adicion de la receta: true
+Receta agregada en la posicion: 3
+Estado de adicion de la receta: true
+Entre a makecoffeeeee!!!!!!
+El precio de la receta es de 50
+Dinero tienes: 75
+Tu cambio es de: 25
+Receta agregada en la posicion: 0
+Estado de adicion de la receta: true
+Receta agregada en la posicion: 1
+Estado de adicion de la receta: true
+Receta agregada en la posicion: 2
+Estado de adicion de la receta: true
+Receta agregada en la posicion: 3
+Estado de adicion de la receta: true
+Entre a makecoffeeeee!!!!!!
+El precio de la receta es de 75
+Dinero tienes: 125
+Tu cambio es de: 50
+Receta agregada en la posicion: 0
+Estado de adicion de la receta: true
+Receta agregada en la posicion: 1
+Estado de adicion de la receta: true
+Receta agregada en la posicion: 2
+Estado de adicion de la receta: true
+Receta agregada en la posicion: 3
+Estado de adicion de la receta: true
+Entre a makecoffeeeee!!!!!!
+El precio de la receta es de 100
+Dinero tienes: 150
+Tu cambio es de: 50
+Receta agregada en la posicion: 0
+Estado de adicion de la receta: true
+Receta agregada en la posicion: 1
+Estado de adicion de la receta: true
+Receta agregada en la posicion: 2
+Estado de adicion de la receta: true
+Receta agregada en la posicion: 3
+Estado de adicion de la receta: true
+Entre a makecoffeeeee!!!!!!
+El precio de la receta es de 65
+Dinero tienes: 150
+Tu cambio es de: 85
+Receta agregada en la posicion: 0
+Estado de adicion de la receta: true
+Receta agregada en la posicion: 1
+Estado de adicion de la receta: true
+Receta agregada en la posicion: 2
+Estado de adicion de la receta: true
+Receta agregada en la posicion: 3
+Estado de adicion de la receta: true
+Entre a makecoffeeeee!!!!!!
+El precio de la receta es de 50
+Dinero tienes: 150
+Tu cambio es de: 100
+Receta agregada en la posicion: 0
+Estado de adicion de la receta: true
+Receta agregada en la posicion: 1
+Estado de adicion de la receta: true
+Receta agregada en la posicion: 2
+Estado de adicion de la receta: true
+Receta agregada en la posicion: 3
+Estado de adicion de la receta: true
+]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>
