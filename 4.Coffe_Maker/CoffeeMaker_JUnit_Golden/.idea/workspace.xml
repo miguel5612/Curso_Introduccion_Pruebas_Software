@@ -1,0 +1,99 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="c2f95829-d03c-4ee0-aa84-f9e4d4d34172" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/Golden/.idea/Golden.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../CoffeeMaker_JaCoCo_Assign/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../CoffeeMaker_JaCoCo_Assign/.idea/compiler.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../CoffeeMaker_JaCoCo_Assign/.idea/gradle.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../CoffeeMaker_JaCoCo_Assign/.idea/jarRepositories.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../CoffeeMaker_JaCoCo_Assign/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../CoffeeMaker_JaCoCo_Assign/.idea/runConfigurations.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../CoffeeMaker_JaCoCo_Assign/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../CoffeeMaker_Mock_Assign/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../CoffeeMaker_Mock_Assign/.idea/.name" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../CoffeeMaker_Mock_Assign/.idea/compiler.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../CoffeeMaker_Mock_Assign/.idea/gradle.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../CoffeeMaker_Mock_Assign/.idea/jarRepositories.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../CoffeeMaker_Mock_Assign/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../CoffeeMaker_Mock_Assign/.idea/runConfigurations.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../CoffeeMaker_Mock_Assign/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Assign/.idea/gradle.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Assign/.idea/gradle.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Golden/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Golden/.idea/Golden.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Golden/.idea/gradle.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Golden/.idea/jarRepositories.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Golden/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Golden/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Golden/.idea/runConfigurations.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Golden/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Golden/CoffeeMaker_JUnit_Golden/.gradle/4.3.1/fileChanges/last-build.bin" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Golden/CoffeeMaker_JUnit_Golden/.gradle/4.3.1/fileContent/annotation-processors.bin" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Golden/CoffeeMaker_JUnit_Golden/.gradle/4.3.1/fileContent/fileContent.lock" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Golden/CoffeeMaker_JUnit_Golden/.gradle/4.3.1/fileHashes/fileHashes.bin" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Golden/CoffeeMaker_JUnit_Golden/.gradle/4.3.1/fileHashes/fileHashes.lock" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Golden/CoffeeMaker_JUnit_Golden/.gradle/4.3.1/fileHashes/resourceHashesCache.bin" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Golden/CoffeeMaker_JUnit_Golden/.gradle/4.3.1/taskHistory/taskHistory.bin" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Golden/CoffeeMaker_JUnit_Golden/.gradle/4.3.1/taskHistory/taskHistory.lock" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Golden/CoffeeMaker_JUnit_Golden/.gradle/buildOutputCleanup/buildOutputCleanup.lock" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Golden/CoffeeMaker_JUnit_Golden/.gradle/buildOutputCleanup/cache.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Golden/CoffeeMaker_JUnit_Golden/.gradle/buildOutputCleanup/outputFiles.bin" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Golden/CoffeeMaker_JUnit_Golden/ClassDiagram-CoffeeMaker.pdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Golden/CoffeeMaker_JUnit_Golden/README.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Golden/CoffeeMaker_JUnit_Golden/Requirements-CoffeeMaker.pdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Golden/CoffeeMaker_JUnit_Golden/SequenceDiagram-CoffeeMaker.pdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Golden/CoffeeMaker_JUnit_Golden/build.gradle" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Golden/CoffeeMaker_JUnit_Golden/build/reports/tests/test/classes/edu.ncsu.csc326.coffeemaker.CoffeeMakerTest.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Golden/CoffeeMaker_JUnit_Golden/build/reports/tests/test/css/base-style.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Golden/CoffeeMaker_JUnit_Golden/build/reports/tests/test/css/style.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Golden/CoffeeMaker_JUnit_Golden/build/reports/tests/test/index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Golden/CoffeeMaker_JUnit_Golden/build/reports/tests/test/js/report.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Golden/CoffeeMaker_JUnit_Golden/build/reports/tests/test/packages/edu.ncsu.csc326.coffeemaker.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Golden/CoffeeMaker_JUnit_Golden/build/test-results/test/TEST-edu.ncsu.csc326.coffeemaker.CoffeeMakerTest.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Golden/CoffeeMaker_JUnit_Golden/build/test-results/test/binary/output.bin" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Golden/CoffeeMaker_JUnit_Golden/build/test-results/test/binary/output.bin.idx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Golden/CoffeeMaker_JUnit_Golden/build/test-results/test/binary/results.bin" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Golden/CoffeeMaker_JUnit_Golden/gradle/wrapper/gradle-wrapper.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Golden/CoffeeMaker_JUnit_Golden/gradlew" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Golden/CoffeeMaker_JUnit_Golden/gradlew.bat" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Golden/CoffeeMaker_JUnit_Golden/settings.gradle" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Golden/CoffeeMaker_JUnit_Golden/src/main/java/edu/ncsu/csc326/coffeemaker/CoffeeMaker.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Golden/CoffeeMaker_JUnit_Golden/src/main/java/edu/ncsu/csc326/coffeemaker/Inventory.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Golden/CoffeeMaker_JUnit_Golden/src/main/java/edu/ncsu/csc326/coffeemaker/Main.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Golden/CoffeeMaker_JUnit_Golden/src/main/java/edu/ncsu/csc326/coffeemaker/Recipe.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Golden/CoffeeMaker_JUnit_Golden/src/main/java/edu/ncsu/csc326/coffeemaker/RecipeBook.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Golden/CoffeeMaker_JUnit_Golden/src/main/java/edu/ncsu/csc326/coffeemaker/exceptions/InventoryException.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Golden/CoffeeMaker_JUnit_Golden/src/main/java/edu/ncsu/csc326/coffeemaker/exceptions/RecipeException.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Golden/CoffeeMaker_JUnit_Golden/src/test/java/edu/ncsu/csc326/coffeemaker/CoffeeMakerTest.java" beforeDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../.." />
+  </component>
+  <component name="ProjectId" id="23fcXjh0G5O1BLj3DGOK4gtzuUF" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="c2f95829-d03c-4ee0-aa84-f9e4d4d34172" name="Changes" comment="" />
+      <created>1642128623991</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1642128623991</updated>
+    </task>
+    <servers />
+  </component>
+</project>
